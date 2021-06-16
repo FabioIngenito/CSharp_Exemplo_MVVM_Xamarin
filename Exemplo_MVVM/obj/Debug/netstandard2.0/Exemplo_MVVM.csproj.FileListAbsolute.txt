@@ -1,0 +1,14 @@
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\bin\Debug\netstandard2.0\Exemplo_MVVM.deps.json
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\bin\Debug\netstandard2.0\Exemplo_MVVM.dll
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\bin\Debug\netstandard2.0\ref\Exemplo_MVVM.dll
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\bin\Debug\netstandard2.0\Exemplo_MVVM.pdb
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\Exemplo_MVVM.csproj.AssemblyReference.cache
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\Exemplo_MVVM.AssemblyInfoInputs.cache
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\Exemplo_MVVM.AssemblyInfo.cs
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\Exemplo_MVVM.csproj.CoreCompileInputs.cache
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\Exemplo_MVVM.dll
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\ref\Exemplo_MVVM.dll
+E:\Whinchester\FABIO\CD\DICAS\Xamarin\Exemplo_MVVM\Exemplo_MVVM\Exemplo_MVVM\obj\Debug\netstandard2.0\Exemplo_MVVM.pdb
