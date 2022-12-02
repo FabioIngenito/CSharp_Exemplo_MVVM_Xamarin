@@ -1,4 +1,15 @@
-# CSharp_Exemplo_MVVM_Xamarin
+<h1 align="left">EXEMPLO MVVM EM C# XAMARIN</h1>
+
+| :placard: Vitrine.Dev |  |
+| -------------  | --- |
+| :sparkles: Nome        | **CSharp_Exemplo_MVVM_Xamarin**
+| :label: Tecnologias | C# MVVM Xamarin
+
+![exemplo_mvvm20210616282J20M562](https://user-images.githubusercontent.com/24603753/205398222-f430f1aa-997d-4cbb-84e2-f3637dd5c7d5.png#vitrinedev)
+
+<h2 align="left">Detalhes do projeto</h2>
+
+# 
 Exemplo baseado em um vídeo do J. C. Macoratti mas com algumas modificações minhas. C# VS2019.
 Example based on a video of J.C. Macoratti but with some my modifications. C# VS2019.
 
@@ -11,7 +22,8 @@ BASEADO NO EXEMPLO:
 
 O que é o MVVM?
  - O MVVM é um padrão de arquitetura para implementar interfaces do usuário que ajuda você a separar a lógica de negócios e a lógica de apresentação do seu aplicativo da sua Interface de Usuário (UI).
- É composto por três componentes:
+ 
+É composto por três componentes:
  
 1. Model
  - Representa os objetos de negócio que encapsula os dados e o comportamento do domínio da aplicação (classes C#);
